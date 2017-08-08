@@ -1,0 +1,4 @@
+Compiling and Linking simu 
+g++: error: simu .C: No such file or directory
+Makefile:31: recipe for target 'bin/simu' failed
+make: *** [bin/simu] Error 1

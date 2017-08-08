@@ -1,0 +1,11 @@
+called: /usr/bin/g++
+	/home/jianwel/projects/mesosInter
+	g++
+	-g
+	-O2
+	-std=c++11
+	simu .C
+	-o
+	bin/simu 
+	-lm
+
